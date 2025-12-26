@@ -485,3 +485,5 @@ For detailed setup: See [FULL_SETUP_GUIDE.md](./FULL_SETUP_GUIDE.md)
 For API documentation: See [API_TEST_GUIDE.md](./API_TEST_GUIDE.md)
 
 For testing scenarios: See [TEST_REPORT.md](./TEST_REPORT.md)
+
+All right reserved Shivam Bhardwaj(Aiden781Xx)
